@@ -1,0 +1,18 @@
+{
+  "name": "html-basic-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Good Boy <npm.NP.npm@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.4.2",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "jquery-ui": "^1.12.1"
+  }
+}
